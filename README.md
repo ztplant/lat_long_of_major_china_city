@@ -1,0 +1,2 @@
+# lat_long_of_major_china_city
+中国各大主要城市的经纬度，精确到区县
